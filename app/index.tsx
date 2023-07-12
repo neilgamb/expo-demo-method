@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>
-        Hey there Method Devs,{"\n"}welcome to Expo 😏
+        Hey there Method Devs,{"\n"}welcome to Expo 🙌
       </Text>
     </View>
   );
